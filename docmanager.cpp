@@ -5,7 +5,7 @@
 #include <ctime>
 using namespace std;
 
-// Класс одной задачи
+// Класс задачи
 class Task {
 private:
     string title;
